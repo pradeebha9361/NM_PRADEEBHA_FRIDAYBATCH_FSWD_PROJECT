@@ -1,15 +1,22 @@
-# NM_PRADEEBHA_FRIDAYBATCH_FSWD_PROJECT
-
-Name: PRADEEBHA S
+# NM_FRIDAYBATCH_FSWD_PROJECT
 
 
-ID: au960221104082
+Project implemented by: 
 
 
-College Name: Arunachala College of Engineering for Women
+Name:
 
 
-Username: student
+ID:
 
 
-Password: 12345
+College name:
+
+
+Login credentials: 
+
+username: root
+
+
+Password: root
+
